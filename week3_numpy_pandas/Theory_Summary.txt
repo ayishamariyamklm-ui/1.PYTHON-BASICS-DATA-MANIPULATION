@@ -1,1 +1,58 @@
+Summary Theory:
+
+NumPy handles fast numerical operations using arrays.
+Broadcasting allows operations between different shapes.
+Pandas Series is 1D labeled data.
+DataFrame is 2D structured data.
+GroupBy is used for aggregation.
+Missing values must be handled before analysis.
+Data cleaning and aggregation are core data analyst skills.
+
+
+
+
+
+1️⃣ What is NumPy?
+
+NumPy (Numerical Python) is a library used for:
+
+Working with arrays
+Performing mathematical operations
+Fast numerical computation
+Linear algebra operations
+It is faster than Python lists because it uses optimized C code internally.
+
+2️⃣ NumPy Arrays
+
+A NumPy array is a multidimensional data structure.
+
+3️⃣ NumPy Operations
+
+NumPy allows element-wise operations.
+
+4️⃣ Broadcasting (Very Important Concept)
+
+Broadcasting allows NumPy to perform operations between arrays of different shapes.
+
+1️⃣ What is Pandas?
+
+Pandas is used for:
+
+Data manipulation
+Data cleaning
+Working with datasets (like Excel tables)
+Data analysis
+It has two main structures:
+Series (1D)
+DataFrame (2D table)
+
+
+2️⃣ Pandas Series
+
+A Series is like a single column.
+
+3️⃣ Pandas DataFrame
+
+A DataFrame is like an Excel table.
+
 
