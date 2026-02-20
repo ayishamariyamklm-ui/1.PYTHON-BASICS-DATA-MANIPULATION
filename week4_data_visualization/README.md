@@ -5,6 +5,17 @@ This project demonstrates data visualization techniques using Matplotlib and Sea
 
 ---
 
+## project Structure
+
+week4_data_visualization/
+    ├── README.md
+    ├── Theory_Summary.txt
+    ├── matplotlib_plots.py
+    ├── seaborn_plots.py
+    ├── visualization_for_dataset.py
+    └── dashboard_visualization.py
+
+
 ## 📊 Features Implemented
 - Line plots
 - Scatter plots
