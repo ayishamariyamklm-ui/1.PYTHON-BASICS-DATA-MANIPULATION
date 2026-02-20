@@ -1,1 +1,134 @@
+Summary Theory:
+
+Lists: Ordered, mutable collections
+
+Tuples: Ordered, immutable collections
+
+Dictionaries: Key-value data storage
+
+Sets: Unique, unordered elements
+
+Functions improve reusability
+
+Lambda functions are one-line functions
+
+Recursion solves problems by self-calling
+
+List comprehension simplifies loops
+
+Data transformations are core to Data Science
+
+
+
+Data structures are containers used to store, organize, and manage data efficiently.
+
+Lists
+✅ What is a List?
+
+A list is an ordered, mutable (changeable) collection of items.
+
+🔹 Characteristics
+
+Allows duplicate values
+Supports indexing
+Can store different data types
+
+🔹 When to Use
+
+✔ When order matters
+✔ When data needs frequent modification
+
+Tuples
+✅ What is a Tuple?
+
+A tuple is an ordered, immutable (unchangeable) collection.
+
+🔹 Characteristics
+
+Faster than lists
+Cannot be modified after creation
+Supports indexing
+
+🔹 Why Use Tuples?
+
+✔ To protect data from accidental changes
+✔ Used for fixed data
+
+Dictionaries
+✅ What is a Dictionary?
+
+A dictionary stores data in key-value pairs.
+
+🔹 Characteristics
+
+Unordered (in older versions)
+Keys must be unique
+Very fast lookup
+
+🔹 When to Use
+
+✔ When data has meaning (labels)
+✔ For structured data (JSON, databases)
+
+Sets
+✅ What is a Set?
+
+A set is an unordered collection of unique elements.
+
+🔹 Characteristics
+
+No duplicates
+No indexing
+Very fast operations
+
+🔹 When to Use
+
+✔ To remove duplicates
+✔ For membership testing
+
+Python Functions
+
+Functions are reusable blocks of code that perform a specific task.
+
+User-Defined Functions
+
+🔹 Why Use Functions?
+
+✔ Code reusability
+✔ Clean and readable code
+✔ Easy debugging
+
+Lambda Functions
+✅ What is a Lambda Function?
+
+A lambda function is a small anonymous function written in one line.
+
+🔹 When to Use
+
+✔ Short, simple operations
+✔ Used with map(), filter(), reduce()
+
+Recursion
+✅ What is Recursion?
+
+A function that calls itself to solve a problem.
+
+🔹 Key Rule
+
+Must have a base condition to stop.
+
+🔹 When to Use
+
+✔ Tree traversal
+✔ Mathematical problems
+
+List Comprehension
+✅ What is List Comprehension?
+
+A shorter and cleaner way to create lists using loops.
+
+🔹 Benefits
+
+✔ Faster execution
+✔ Cleaner code
 
