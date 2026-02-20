@@ -1,1 +1,100 @@
+Summary Theory:
+
+Matplotlib is used for basic plotting.
+Seaborn provides advanced statistical visualizations.
+Scatter plots reveal relationships.
+Histograms show data distribution.
+Boxplots detect outliers.
+Heatmaps visualize correlations.
+Dashboards combine multiple plots for insights.
+
+
+
+
+1️⃣ What is Data Visualization?
+
+Data Visualization is the graphical representation of data to:
+
+Identify patterns
+Detect trends
+Understand relationships
+Communicate insights clearly
+It converts numbers into meaningful visuals.
+
+2️⃣ Matplotlib
+✅ What is Matplotlib?
+
+Matplotlib is a Python library used for:
+
+Basic plots
+Customizable charts
+Publication-quality figures
+It is the foundation for most Python visualization libraries.
+
+## Line Plot
+
+Used to show trends over time.
+
+Bar Chart
+
+Used to compare categories.
+
+Histogram
+
+Used to show distribution of numerical data.
+
+Scatter Plot
+
+Used to show relationship between two numerical variables.
+
+Example: Experience vs Salary
+
+Seaborn
+✅ What is Seaborn?
+
+Seaborn is built on Matplotlib and is used for:
+
+Advanced visualizations
+Statistical plots
+Better design aesthetics
+It works directly with Pandas DataFrames.
+
+Box Plot
+
+Used to detect outliers and distribution spread.
+
+Pair Plot
+
+Shows relationships between multiple numerical features.
+
+Heatmap (Very Important)
+
+Used to visualize correlation matrix.
+
+When to Use What?
+Plot Type 	      Use Case
+Line Plot	       Trends over time
+Bar Chart     	Category comparison
+Histogram      	Distribution analysis
+Scatter Plot	  Relationship between 2 variables
+Box Plot	      Detect outliers
+Heatmap	        Correlation analysis
+Pairplot	       Multi-feature relationships
+
+What is the difference between Matplotlib and Seaborn?
+
+Matplotlib → Basic plotting, more control
+
+Seaborn → Statistical plots, better design
+
+What is a Heatmap?
+
+A graphical representation of correlation matrix.
+
+Why Visualization is Important?
+
+Makes patterns visible
+Helps in decision-making
+Supports storytelling with data
+
 
