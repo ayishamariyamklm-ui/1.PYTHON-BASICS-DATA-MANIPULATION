@@ -72,3 +72,10 @@ month-1-python-data-manipulation/
     ├── seaborn_plots.py
     ├── visualization_for_dataset.py
     └── dashboard_visualization.py
+
+
+
+👩‍💻 Author
+
+AYISHA MARIYAM
+Data Sciencentist/Data Analyst
