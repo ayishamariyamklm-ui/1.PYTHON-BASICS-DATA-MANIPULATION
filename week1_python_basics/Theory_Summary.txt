@@ -1,1 +1,11 @@
+Summary Theory
 
+
+* Variables store data and don't need type declaration
+* Data types determine what operations can be performed
+* Operators perform calculations and comparisons
+* Input/Output enables user interaction
+* Conditionals make programs responsive to different situations
+* Loops enable repetitive tasks and data processing
+* Error handling makes programs robust and user-friendly
+* Functions organize code into reusable blocks
